@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cowboysite/static/css/main.9bab8bd2.css",
-    "main.js": "/cowboysite/static/js/main.303e425d.js",
+    "main.css": "/cowboysite/static/css/main.9b945397.css",
+    "main.js": "/cowboysite/static/js/main.6afa9496.js",
     "static/media/cachos.png": "/cowboysite/static/media/cachos.1d62b657b92f3fec0b35.png",
     "static/media/dourado.png": "/cowboysite/static/media/dourado.eef6ea53763837c35511.png",
     "static/media/mariana.PNG": "/cowboysite/static/media/mariana.03dbf0035cdcba1a17e6.PNG",
@@ -12,27 +12,29 @@
     "static/media/fazenda3.PNG": "/cowboysite/static/media/fazenda3.18d0ed0d8805b5a354b2.PNG",
     "static/media/zemoreiracurimata.PNG": "/cowboysite/static/media/zemoreiracurimata.fe9694ebdf1473c29f0a.PNG",
     "static/media/infancia.PNG": "/cowboysite/static/media/infancia.88921efa204ba0c38778.PNG",
-    "static/media/FundoCowboy916.png": "/cowboysite/static/media/FundoCowboy916.479b72be3447e7505172.png",
     "static/media/isabel.PNG": "/cowboysite/static/media/isabel.3bd6440e76efa1d53a8d.PNG",
     "static/media/Helder.PNG": "/cowboysite/static/media/Helder.ea653da75a73c3bb2361.PNG",
     "static/media/boanerges.PNG": "/cowboysite/static/media/boanerges.a52f36e1b1b4f4cd7baa.PNG",
     "static/media/apolinario.PNG": "/cowboysite/static/media/apolinario.b92fba7c4edbef71c2bb.PNG",
     "static/media/FundoCowboy169.png": "/cowboysite/static/media/FundoCowboy169.8e5c6bb9c84a69840cd9.png",
+    "static/media/FundoCowboy916.png": "/cowboysite/static/media/FundoCowboy916.7ad295f1ace9bdacc218.png",
     "static/media/vhstodvd.jpg": "/cowboysite/static/media/vhstodvd.5652d9a0e7fbfb2b7587.jpg",
     "static/media/Sharp.PNG": "/cowboysite/static/media/Sharp.b87414f7dbfd455fbdca.PNG",
     "static/media/serra.jpg": "/cowboysite/static/media/serra.a67dd4a8efb07d6f309b.jpg",
     "static/media/UFC.png": "/cowboysite/static/media/UFC.789427e83b2172859dac.png",
     "static/media/dezoito.png": "/cowboysite/static/media/dezoito.014fd24ddce214898dfe.png",
+    "static/media/instagram.png": "/cowboysite/static/media/instagram.56b90204dbf1c38b69bd.png",
     "static/media/negocio.png": "/cowboysite/static/media/negocio.5e5bcb803e48ea774348.png",
+    "static/media/linkedln.png": "/cowboysite/static/media/linkedln.530d6281c87f8b39c1f7.png",
     "static/media/galo.png": "/cowboysite/static/media/galo.61ab9ac24944eda73cc0.png",
+    "static/media/menu.png": "/cowboysite/static/media/menu.f2c1b2f32dab40edbe5d.png",
     "static/media/Brasil.png": "/cowboysite/static/media/Brasil.9c8edb1fd540dfbf6e8f.png",
-    "static/media/instagram.png": "/cowboysite/static/media/instagram.284534168e40d00067c6.png",
     "index.html": "/cowboysite/index.html",
-    "main.9bab8bd2.css.map": "/cowboysite/static/css/main.9bab8bd2.css.map",
-    "main.303e425d.js.map": "/cowboysite/static/js/main.303e425d.js.map"
+    "main.9b945397.css.map": "/cowboysite/static/css/main.9b945397.css.map",
+    "main.6afa9496.js.map": "/cowboysite/static/js/main.6afa9496.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bab8bd2.css",
-    "static/js/main.303e425d.js"
+    "static/css/main.9b945397.css",
+    "static/js/main.6afa9496.js"
   ]
 }
