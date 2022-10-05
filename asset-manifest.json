@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cowboysite/static/css/main.8aa4379c.css",
-    "main.js": "/cowboysite/static/js/main.4660080d.js",
+    "main.js": "/cowboysite/static/js/main.686dec7e.js",
     "static/media/cachos.png": "/cowboysite/static/media/cachos.1d62b657b92f3fec0b35.png",
     "static/media/dourado.png": "/cowboysite/static/media/dourado.eef6ea53763837c35511.png",
     "static/media/mariana.PNG": "/cowboysite/static/media/mariana.03dbf0035cdcba1a17e6.PNG",
@@ -31,10 +31,10 @@
     "static/media/Brasil.png": "/cowboysite/static/media/Brasil.9c8edb1fd540dfbf6e8f.png",
     "index.html": "/cowboysite/index.html",
     "main.8aa4379c.css.map": "/cowboysite/static/css/main.8aa4379c.css.map",
-    "main.4660080d.js.map": "/cowboysite/static/js/main.4660080d.js.map"
+    "main.686dec7e.js.map": "/cowboysite/static/js/main.686dec7e.js.map"
   },
   "entrypoints": [
     "static/css/main.8aa4379c.css",
-    "static/js/main.4660080d.js"
+    "static/js/main.686dec7e.js"
   ]
 }
